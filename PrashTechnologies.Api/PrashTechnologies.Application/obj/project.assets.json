@@ -32,11 +32,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Anirudh P\\source\\repos\\PrashTechnologies.Api\\PrashTechnologies.Application\\PrashTechnologies.Application.csproj",
+      "projectUniqueName": "C:\\Users\\Anirudh P\\Documents\\GitHub\\PrashTechnologies\\PrashTechnologies.Api\\PrashTechnologies.Application\\PrashTechnologies.Application.csproj",
       "projectName": "PrashTechnologies.Application",
-      "projectPath": "C:\\Users\\Anirudh P\\source\\repos\\PrashTechnologies.Api\\PrashTechnologies.Application\\PrashTechnologies.Application.csproj",
+      "projectPath": "C:\\Users\\Anirudh P\\Documents\\GitHub\\PrashTechnologies\\PrashTechnologies.Api\\PrashTechnologies.Application\\PrashTechnologies.Application.csproj",
       "packagesPath": "C:\\Users\\Anirudh P\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Anirudh P\\source\\repos\\PrashTechnologies.Api\\PrashTechnologies.Application\\obj\\",
+      "outputPath": "C:\\Users\\Anirudh P\\Documents\\GitHub\\PrashTechnologies\\PrashTechnologies.Api\\PrashTechnologies.Application\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Anirudh P\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -53,8 +53,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\Anirudh P\\source\\repos\\PrashTechnologies.Api\\PrashTechnologies.Core\\PrashTechnologies.Core.csproj": {
-              "projectPath": "C:\\Users\\Anirudh P\\source\\repos\\PrashTechnologies.Api\\PrashTechnologies.Core\\PrashTechnologies.Core.csproj"
+            "C:\\Users\\Anirudh P\\Documents\\GitHub\\PrashTechnologies\\PrashTechnologies.Api\\PrashTechnologies.Core\\PrashTechnologies.Core.csproj": {
+              "projectPath": "C:\\Users\\Anirudh P\\Documents\\GitHub\\PrashTechnologies\\PrashTechnologies.Api\\PrashTechnologies.Core\\PrashTechnologies.Core.csproj"
             }
           }
         }

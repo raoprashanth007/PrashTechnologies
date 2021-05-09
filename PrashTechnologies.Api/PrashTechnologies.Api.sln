@@ -5,13 +5,11 @@ VisualStudioVersion = 16.0.31205.134
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PrashTechnologies.Api", "PrashTechnologies.Api\PrashTechnologies.Api.csproj", "{EC74B791-08C8-4F1E-B95E-BAADF33B5A23}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PrashTechnologies.Api.Tests", "PrashTechnologies.Api.Tests\PrashTechnologies.Api.Tests.csproj", "{93D5B1F1-BFEB-49F1-81D1-60497D047D16}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrashTechnologies.Core", "PrashTechnologies.Core\PrashTechnologies.Core.csproj", "{75EA06E2-53C5-4124-AD70-18863193B434}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PrashTechnologies.Core", "PrashTechnologies.Core\PrashTechnologies.Core.csproj", "{75EA06E2-53C5-4124-AD70-18863193B434}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PrashTechnologies.Application", "PrashTechnologies.Application\PrashTechnologies.Application.csproj", "{01410880-60D1-4431-9483-01A9C09BA6DA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrashTechnologies.Repository", "PrashTechnologies.Repository\PrashTechnologies.Repository.csproj", "{8C2DBC64-C138-49FF-A193-0202DC5B3C29}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PrashTechnologies.Repository", "PrashTechnologies.Repository\PrashTechnologies.Repository.csproj", "{8C2DBC64-C138-49FF-A193-0202DC5B3C29}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -23,10 +21,6 @@ Global
 		{EC74B791-08C8-4F1E-B95E-BAADF33B5A23}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EC74B791-08C8-4F1E-B95E-BAADF33B5A23}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EC74B791-08C8-4F1E-B95E-BAADF33B5A23}.Release|Any CPU.Build.0 = Release|Any CPU
-		{93D5B1F1-BFEB-49F1-81D1-60497D047D16}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{93D5B1F1-BFEB-49F1-81D1-60497D047D16}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{93D5B1F1-BFEB-49F1-81D1-60497D047D16}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{93D5B1F1-BFEB-49F1-81D1-60497D047D16}.Release|Any CPU.Build.0 = Release|Any CPU
 		{75EA06E2-53C5-4124-AD70-18863193B434}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{75EA06E2-53C5-4124-AD70-18863193B434}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{75EA06E2-53C5-4124-AD70-18863193B434}.Release|Any CPU.ActiveCfg = Release|Any CPU

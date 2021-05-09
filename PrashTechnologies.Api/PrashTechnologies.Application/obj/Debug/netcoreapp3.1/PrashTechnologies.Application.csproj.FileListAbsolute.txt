@@ -10,3 +10,15 @@ C:\Users\Anirudh P\source\repos\PrashTechnologies.Api\PrashTechnologies.Applicat
 C:\Users\Anirudh P\source\repos\PrashTechnologies.Api\PrashTechnologies.Application\obj\Debug\netcoreapp3.1\PrashTechnologies.Application.csproj.CopyComplete
 C:\Users\Anirudh P\source\repos\PrashTechnologies.Api\PrashTechnologies.Application\obj\Debug\netcoreapp3.1\PrashTechnologies.Application.dll
 C:\Users\Anirudh P\source\repos\PrashTechnologies.Api\PrashTechnologies.Application\obj\Debug\netcoreapp3.1\PrashTechnologies.Application.pdb
+C:\Users\Anirudh P\Documents\GitHub\PrashTechnologies\PrashTechnologies.Api\PrashTechnologies.Application\bin\Debug\netcoreapp3.1\PrashTechnologies.Application.deps.json
+C:\Users\Anirudh P\Documents\GitHub\PrashTechnologies\PrashTechnologies.Api\PrashTechnologies.Application\bin\Debug\netcoreapp3.1\PrashTechnologies.Application.dll
+C:\Users\Anirudh P\Documents\GitHub\PrashTechnologies\PrashTechnologies.Api\PrashTechnologies.Application\bin\Debug\netcoreapp3.1\PrashTechnologies.Application.pdb
+C:\Users\Anirudh P\Documents\GitHub\PrashTechnologies\PrashTechnologies.Api\PrashTechnologies.Application\bin\Debug\netcoreapp3.1\PrashTechnologies.Core.dll
+C:\Users\Anirudh P\Documents\GitHub\PrashTechnologies\PrashTechnologies.Api\PrashTechnologies.Application\bin\Debug\netcoreapp3.1\PrashTechnologies.Core.pdb
+C:\Users\Anirudh P\Documents\GitHub\PrashTechnologies\PrashTechnologies.Api\PrashTechnologies.Application\obj\Debug\netcoreapp3.1\PrashTechnologies.Application.csprojAssemblyReference.cache
+C:\Users\Anirudh P\Documents\GitHub\PrashTechnologies\PrashTechnologies.Api\PrashTechnologies.Application\obj\Debug\netcoreapp3.1\PrashTechnologies.Application.AssemblyInfoInputs.cache
+C:\Users\Anirudh P\Documents\GitHub\PrashTechnologies\PrashTechnologies.Api\PrashTechnologies.Application\obj\Debug\netcoreapp3.1\PrashTechnologies.Application.AssemblyInfo.cs
+C:\Users\Anirudh P\Documents\GitHub\PrashTechnologies\PrashTechnologies.Api\PrashTechnologies.Application\obj\Debug\netcoreapp3.1\PrashTechnologies.Application.csproj.CoreCompileInputs.cache
+C:\Users\Anirudh P\Documents\GitHub\PrashTechnologies\PrashTechnologies.Api\PrashTechnologies.Application\obj\Debug\netcoreapp3.1\PrashTechnologies.Application.csproj.CopyComplete
+C:\Users\Anirudh P\Documents\GitHub\PrashTechnologies\PrashTechnologies.Api\PrashTechnologies.Application\obj\Debug\netcoreapp3.1\PrashTechnologies.Application.dll
+C:\Users\Anirudh P\Documents\GitHub\PrashTechnologies\PrashTechnologies.Api\PrashTechnologies.Application\obj\Debug\netcoreapp3.1\PrashTechnologies.Application.pdb

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Anirudh P\\source\\repos\\PrashTechnologies.Api\\PrashTechnologies.Core\\PrashTechnologies.Core.csproj",
+      "projectUniqueName": "C:\\Users\\Anirudh P\\Documents\\GitHub\\PrashTechnologies\\PrashTechnologies.Api\\PrashTechnologies.Core\\PrashTechnologies.Core.csproj",
       "projectName": "PrashTechnologies.Core",
-      "projectPath": "C:\\Users\\Anirudh P\\source\\repos\\PrashTechnologies.Api\\PrashTechnologies.Core\\PrashTechnologies.Core.csproj",
+      "projectPath": "C:\\Users\\Anirudh P\\Documents\\GitHub\\PrashTechnologies\\PrashTechnologies.Api\\PrashTechnologies.Core\\PrashTechnologies.Core.csproj",
       "packagesPath": "C:\\Users\\Anirudh P\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Anirudh P\\source\\repos\\PrashTechnologies.Api\\PrashTechnologies.Core\\obj\\",
+      "outputPath": "C:\\Users\\Anirudh P\\Documents\\GitHub\\PrashTechnologies\\PrashTechnologies.Api\\PrashTechnologies.Core\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Anirudh P\\AppData\\Roaming\\NuGet\\NuGet.Config",
