@@ -1,0 +1,54 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>PrashTechnologies.Api</name>
+    </assembly>
+    <members>
+        <member name="T:PrashTechnologies.Api.Controllers.ProductController">
+            <summary>
+            Product API's 
+            </summary>
+        </member>
+        <member name="M:PrashTechnologies.Api.Controllers.ProductController.#ctor(PrashTechnologies.Application.Interfaces.IUnitOfWork)">
+            <summary>
+            Initialize
+            </summary>
+            <param name="unitOfWork"></param>
+        </member>
+        <member name="M:PrashTechnologies.Api.Controllers.ProductController.GetAll(System.Int32,System.String)">
+            <summary>
+            GET: api/Product?top=5
+            API fetches list of products based on the given top count . Product cost is dispalyed in default currency 'USD' for all the products.
+            If required, an optional parameter can be specified for desired currency in which the cost should be calculated. This calculation is based on the live currency exchange rates.
+            </summary>
+            <param name="top">number of rows to be dispalyed</param>
+            <param name="exchangeCode">desired currency. suported currencies are: USD, GBP, CAD, EUR</param>
+            <returns>list of products</returns>
+        </member>
+        <member name="M:PrashTechnologies.Api.Controllers.ProductController.GetById(System.Int32,System.String)">
+            <summary>
+            GET: api/Product/1?exchangeCode='CAD'
+            API fetches a product based on the given product id. Product cost is dispalyed in default currency 'USD.
+            If required, an optional parameter can be specified for desired currency in which the cost should be calculated. This calculation is based on the live currency exchange rates.
+            </summary>
+            <param name="id">product id</param>
+            <param name="exchangeCode">desired currency. suported currencies are: USD, GBP, CAD, EUR</param>
+            <returns>a single product</returns>
+        </member>
+        <member name="M:PrashTechnologies.Api.Controllers.ProductController.Add(PrashTechnologies.Core.Entities.Product)">
+            <summary>
+            POST: api/Product
+            API to post the product details to server
+            </summary>
+            <param name="product">Product details</param>
+            <returns>Success/failure indicator</returns>        
+        </member>
+        <member name="M:PrashTechnologies.Api.Controllers.ProductController.Delete(System.Int32)">
+            <summary>
+            DELETE: api/Product/1
+            </summary>
+            <param name="id">product id to be deleted</param>
+            <returns>Success/failure indicator</returns>      
+        </member>
+    </members>
+</doc>

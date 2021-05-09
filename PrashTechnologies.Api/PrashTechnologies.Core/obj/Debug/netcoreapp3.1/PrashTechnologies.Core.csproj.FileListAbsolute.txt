@@ -1,0 +1,8 @@
+C:\Users\Anirudh P\source\repos\PrashTechnologies.Api\PrashTechnologies.Core\bin\Debug\netcoreapp3.1\PrashTechnologies.Core.deps.json
+C:\Users\Anirudh P\source\repos\PrashTechnologies.Api\PrashTechnologies.Core\bin\Debug\netcoreapp3.1\PrashTechnologies.Core.dll
+C:\Users\Anirudh P\source\repos\PrashTechnologies.Api\PrashTechnologies.Core\bin\Debug\netcoreapp3.1\PrashTechnologies.Core.pdb
+C:\Users\Anirudh P\source\repos\PrashTechnologies.Api\PrashTechnologies.Core\obj\Debug\netcoreapp3.1\PrashTechnologies.Core.AssemblyInfoInputs.cache
+C:\Users\Anirudh P\source\repos\PrashTechnologies.Api\PrashTechnologies.Core\obj\Debug\netcoreapp3.1\PrashTechnologies.Core.AssemblyInfo.cs
+C:\Users\Anirudh P\source\repos\PrashTechnologies.Api\PrashTechnologies.Core\obj\Debug\netcoreapp3.1\PrashTechnologies.Core.csproj.CoreCompileInputs.cache
+C:\Users\Anirudh P\source\repos\PrashTechnologies.Api\PrashTechnologies.Core\obj\Debug\netcoreapp3.1\PrashTechnologies.Core.dll
+C:\Users\Anirudh P\source\repos\PrashTechnologies.Api\PrashTechnologies.Core\obj\Debug\netcoreapp3.1\PrashTechnologies.Core.pdb

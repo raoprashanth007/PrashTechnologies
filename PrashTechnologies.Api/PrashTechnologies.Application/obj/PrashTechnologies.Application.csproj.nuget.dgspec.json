@@ -1,0 +1,120 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Anirudh P\\source\\repos\\PrashTechnologies.Api\\PrashTechnologies.Application\\PrashTechnologies.Application.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Anirudh P\\source\\repos\\PrashTechnologies.Api\\PrashTechnologies.Application\\PrashTechnologies.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Anirudh P\\source\\repos\\PrashTechnologies.Api\\PrashTechnologies.Application\\PrashTechnologies.Application.csproj",
+        "projectName": "PrashTechnologies.Application",
+        "projectPath": "C:\\Users\\Anirudh P\\source\\repos\\PrashTechnologies.Api\\PrashTechnologies.Application\\PrashTechnologies.Application.csproj",
+        "packagesPath": "C:\\Users\\Anirudh P\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Anirudh P\\source\\repos\\PrashTechnologies.Api\\PrashTechnologies.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Anirudh P\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\Anirudh P\\source\\repos\\PrashTechnologies.Api\\PrashTechnologies.Core\\PrashTechnologies.Core.csproj": {
+                "projectPath": "C:\\Users\\Anirudh P\\source\\repos\\PrashTechnologies.Api\\PrashTechnologies.Core\\PrashTechnologies.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Anirudh P\\source\\repos\\PrashTechnologies.Api\\PrashTechnologies.Core\\PrashTechnologies.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Anirudh P\\source\\repos\\PrashTechnologies.Api\\PrashTechnologies.Core\\PrashTechnologies.Core.csproj",
+        "projectName": "PrashTechnologies.Core",
+        "projectPath": "C:\\Users\\Anirudh P\\source\\repos\\PrashTechnologies.Api\\PrashTechnologies.Core\\PrashTechnologies.Core.csproj",
+        "packagesPath": "C:\\Users\\Anirudh P\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Anirudh P\\source\\repos\\PrashTechnologies.Api\\PrashTechnologies.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Anirudh P\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
