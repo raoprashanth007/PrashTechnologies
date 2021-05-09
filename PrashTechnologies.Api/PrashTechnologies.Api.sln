@@ -11,6 +11,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PrashTechnologies.Applicati
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PrashTechnologies.Repository", "PrashTechnologies.Repository\PrashTechnologies.Repository.csproj", "{8C2DBC64-C138-49FF-A193-0202DC5B3C29}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrashTechnologies.Api.Tests", "PrashTechnologies.Api.Tests\PrashTechnologies.Api.Tests.csproj", "{FDEE42A0-DB2F-4FC6-834B-E3CFB70F8E73}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{8C2DBC64-C138-49FF-A193-0202DC5B3C29}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8C2DBC64-C138-49FF-A193-0202DC5B3C29}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8C2DBC64-C138-49FF-A193-0202DC5B3C29}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FDEE42A0-DB2F-4FC6-834B-E3CFB70F8E73}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FDEE42A0-DB2F-4FC6-834B-E3CFB70F8E73}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FDEE42A0-DB2F-4FC6-834B-E3CFB70F8E73}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FDEE42A0-DB2F-4FC6-834B-E3CFB70F8E73}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
